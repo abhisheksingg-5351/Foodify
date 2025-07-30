@@ -39,7 +39,7 @@
 📦 Installation
 
 # Clone the repo
-git clone https://github.com/your-username/quickbite.git
+git clone https://github.com/abhisheksingg-5351/Foodify/tree/main
 
 # Navigate into the project directory
 cd quickbite
